@@ -1,0 +1,44 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Ginger Chai",
+            "desc": "The authentic and evergreen Indian Tea aka Chai",
+            "ingredients": "water, tea leaves, ginger, milk, sugar",
+            "method": "Boil 1 cup water and add 1 teaspoon tea leaves and 1.5 teaspoon sugar. Let it boil for 10mins. Add 1 cup milk to the above and let it boil. Add smashed ginger and continue boiling for 5mins. Strain the tea and serve hot.",
+            "imageUrl": "https://images.slurrp.com/webstories/wp-content/uploads/2022/11/05234700/cropped-shutterstock_2044313225.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Ginger Chai",
+            "desc": "The authentic and evergreen Indian Tea aka Chai",
+            "ingredients": "water, tea leaves, ginger, milk, sugar",
+            "method": "Boil 1 cup water and add 1 teaspoon tea leaves and 1.5 teaspoon sugar. Let it boil for 10mins. Add 1 cup milk to the above and let it boil. Add smashed ginger and continue boiling for 5mins. Strain the tea and serve hot.",
+            "imageUrl": "https://images.slurrp.com/webstories/wp-content/uploads/2022/11/05234700/cropped-shutterstock_2044313225.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Ginger Chai",
+            "desc": "The authentic and evergreen Indian Tea aka Chai",
+            "ingredients": "water, tea leaves, ginger, milk, sugar",
+            "method": "Boil 1 cup water and add 1 teaspoon tea leaves and 1.5 teaspoon sugar. Let it boil for 10mins. Add 1 cup milk to the above and let it boil. Add smashed ginger and continue boiling for 5mins. Strain the tea and serve hot.",
+            "imageUrl": "https://images.slurrp.com/webstories/wp-content/uploads/2022/11/05234700/cropped-shutterstock_2044313225.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Ginger Chai",
+            "desc": "The authentic and evergreen Indian Tea aka Chai",
+            "ingredients": "water, tea leaves, ginger, milk, sugar",
+            "method": "Boil 1 cup water and add 1 teaspoon tea leaves and 1.5 teaspoon sugar. Let it boil for 10mins. Add 1 cup milk to the above and let it boil. Add smashed ginger and continue boiling for 5mins. Strain the tea and serve hot.",
+            "imageUrl": "https://images.slurrp.com/webstories/wp-content/uploads/2022/11/05234700/cropped-shutterstock_2044313225.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Ginger Chai",
+            "desc": "The authentic and evergreen Indian Tea aka Chai",
+            "ingredients": "water, tea leaves, ginger, milk, sugar",
+            "method": "Boil 1 cup water and add 1 teaspoon tea leaves and 1.5 teaspoon sugar. Let it boil for 10mins. Add 1 cup milk to the above and let it boil. Add smashed ginger and continue boiling for 5mins. Strain the tea and serve hot.",
+            "imageUrl": "https://images.slurrp.com/webstories/wp-content/uploads/2022/11/05234700/cropped-shutterstock_2044313225.jpg"
+        }
+    ]
+}
